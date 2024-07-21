@@ -26,13 +26,13 @@ This course is designed to take you from a complete beginner to an advanced SQL 
 
 The repository is organized as follows:
 ```bash
-├── Day01_Mastering_SQL_Basics.sql
-├── Day02_Mastering_Data_Retrieval_with_SELECT_Statements.sql
-├── Day03_Mastering_SQL_GroupBy_Agyegation_and_Alter_Techniques.sql
-├── Day04_Masterilg_SQL_Window_and_Ranking_Functions.sql
-├── Day05_Mastering_SQL_Joins_and_Subqueries.sql
-├── Day06_Mastering_Case_Statements_and_CTE.sql
-├── Day07_Analyzing_EComnerce_Trelds_with_SQL.sql
+├── Day01_Mastering_SQL_Basics
+├── Day02_Mastering_Data_Retrieval_with_SELECT_Statements
+├── Day03_Mastering_SQL_GroupBy_Agyegation_and_Alter_Techniques
+├── Day04_Masterilg_SQL_Window_and_Ranking_Functions
+├── Day05_Mastering_SQL_Joins_and_Subqueries
+├── Day06_Mastering_Case_Statements_and_CTE
+├── Day07_Analyzing_EComnerce_Trelds_with_SQL
 ```
 
 ## Prerequisites
